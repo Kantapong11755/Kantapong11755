@@ -6,7 +6,7 @@ Computer engineering : Rajamangala University of Technology Thanyaburi
 * 🧠  I'm learning : Software engineering, System analyze, System developer, Database design
 
 <a href="https://www.github.com/Kantapong11755" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Kantapong?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Kantapong11755?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
@@ -37,6 +37,6 @@ src="https://img.shields.io/github/followers/Kantapong?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Kantapong"><img src="https://github-readme-stats.vercel.app/api?username=Kantapong&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Kantapong's GitHub stats" /></a>
+<a href="http://www.github.com/Kantapong11755"><img src="https://github-readme-stats.vercel.app/api?username=Kantapong11755&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Kantapong11755's GitHub stats" /></a>
 
-<a href="http://www.github.com/Kantapong"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kantapong&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Kantapong11755"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kantapong11755&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
