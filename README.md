@@ -5,7 +5,7 @@
   - System analyze
   - System developer 
   - Database engineering
-  - nd every thing 😄
+  - and every thing 😄
 #### ⚡ More skills  ####
   - Create 3D model
   - GUI design
