@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Kantapong Klinniam
+##### I'm computer engineering #####
+#### 🌱 I’m currently learning about ... ####
+  - Software engineering
+  - System analyze
+  - System developer 
+  - Database engineering
+  - nd every thing 😄
+#### ⚡ More skills  ####
+  - Create 3D model
+  - GUI design
+  - Graphic design
 
 <!--
 **Kantapong11755/Kantapong11755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
